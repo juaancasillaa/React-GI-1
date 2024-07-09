@@ -92,8 +92,8 @@ class App extends Component {
     this.state = {
       people: [
         { name: 'Juan Casilla', number: '123-456-7890', dob: '16/09/2004', picture: juan },
-        { name: 'Nina Torrealba', number: '987-654-3210', dob: '08/2003', picture: nina },
-        { name: 'Maria F. Torrealba', number: '444-444-444', dob: '08/2003', picture: maria },
+        { name: 'Nina Torrealba', number: '987-654-3210', dob: '22/08/2003', picture: nina },
+        { name: 'Maria F. Torrealba', number: '444-444-444', dob: '22/08/2003', picture: maria },
         { name: 'Diana Freitas', number: '555-555-5555', dob: '26/09/2003', picture: diana }
       ]
     };
